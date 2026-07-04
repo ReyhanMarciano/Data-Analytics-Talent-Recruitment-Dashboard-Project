@@ -57,3 +57,4 @@ By conducting an end to end data analytics workflow from data cleaning and unpiv
 *   While Fresh Graduates show exceptional technical test scores in SQL and Python (300 candidates), it is highly recommended to prioritize the **Experienced candidate pool (203 individuals)** for final interviews. This high-risk position within the PayLater team requires deep contextual business expertise in risk management that goes beyond technical test performance.
 
 ## Dashboard Preview
+![Searabank Talent Recruitment Dashboard](Dashboard/Searabank Talent Recruitment Dashboard.jpg)
